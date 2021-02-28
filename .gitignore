@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/Problems/The minimum value of N numbers/out/
+/Problems/The minimum value of N numbers/out/production/classes/
+/Simple Chatty Bot/task/build/

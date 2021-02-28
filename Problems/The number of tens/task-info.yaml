@@ -1,0 +1,24 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun main() {
+        // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4494#comment
+status: Failed
+feedback:
+  message: "Failed test #1 of 18. Runtime error\n\nThis is a sample test from the\
+    \ problem statement!\n\nTest input:\n173\nCorrect output:\n7\n\nYour code output:\n\
+    \n\nError:\nException in thread \"main\" java.util.InputMismatchException: Value\
+    \ out of range. Value:\"173\" Radix:10\n\tat java.base/java.util.Scanner.nextByte(Scanner.java:2008)\n\
+    \tat java.base/java.util.Scanner.nextByte(Scanner.java:1956)\n\tat MainKt.main(main.kt:5)\n\
+    \tat MainKt.main(main.kt)\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native\
+    \ Method)\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\n\
+    \tat java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\n\
+    \tat java.base/java.lang.reflect.Method.invoke(Method.java:566)\n\tat org.jetbrains.kotlin.runner.AbstractRunner.run(runners.kt:64)\n\
+    \tat org.jetbrains.kotlin.runner.Main.run(Main.kt:149)\n\tat org.jetbrains.kotlin.runner.Main.main(Main.kt:159)\n"
+  time: Mon, 01 Feb 2021 19:47:02 UTC
+record: -1
